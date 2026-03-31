@@ -1,0 +1,505 @@
+﻿A
+
+Abgetretene Forderung [verbraucher]
+Eine abgetretene Forderung bezeichnet eine Forderung, die von einem Gläubiger an einen Dritten, wie beispielsweise ein Inkassobüro oder einen Rechtsanwalt, übertragen wurde. In diesem Fall ist der ursprüngliche Gläubiger nicht mehr berechtigt, Rechte aus dieser Forderung gegen den Schuldner geltend zu machen. Stattdessen tritt der Dritte an die Stelle des Gläubigers und kann die Forderung einfordern.
+
+A
+
+Absonderungsrecht [verbraucher,regel,firmen]
+Das Absonderungsrecht gibt bestimmten Gläubigern das Recht, sich aus bestimmten Sicherheiten vorrangig zu befriedigen. Typische Beispiele sind Hypotheken oder Sicherungsübereignungen.
+
+A
+
+Amtsgericht [verbraucher,regel,firmen]
+<span data-olk-copy-source="MessageBody">Das Amtsgericht ist ein Gericht der ordentlichen Gerichtsbarkeit und regelmäßig die erste Instanz in Zivil- und Strafsachen. Es ist sachlich zuständig für bürgerliche Rechtsstreitigkeiten mit einem Streitwert bis 5.000 Euro sowie unabhängig vom Streitwert insbesondere für Mietstreitigkeiten über Wohnraum und Familiensachen. In Strafsachen entscheidet es bei Vergehen mit einer Straferwartung von nicht mehr als vier Jahren Freiheitsstrafe. Darüber hinaus ist das Amtsgericht zuständig für Grundbuchsachen, Nachlasssachen, Registersachen, Zwangsvollstreckungssachen sowie für Insolvenzverfahren. Das Insolvenzgericht ist gemäß § 2 Insolvenzordnung beim Amtsgericht eingerichtet und führt die Insolvenzverfahren als besondere Abteilung innerhalb des Amtsgerichts durch. Rechtsgrundlagen sind insbesondere das Gerichtsverfassungsgesetz, die Zivilprozessordnung, die Strafprozessordnung und die Insolvenzordnung. Das Amtsgericht ist Teil der Landesjustiz und örtlich für einen bestimmten Gerichtsbezirk zuständig.</span>
+
+A
+
+Anfechtung [verbraucher,regel,firmen]
+Die Anfechtung ermöglicht es dem Insolvenzverwalter, Rechtshandlungen rückgängig zu machen, die vor der Insolvenzeröffnung Gläubiger benachteiligt haben. Dazu zählen beispielsweise unzulässige Vermögensverschiebungen oder die Bevorzugung einzelner Gläubiger wie Krankenkassen und das Finanzamt.
+
+A
+
+Aufteilung der Steuerschuld [verbraucher]
+Trennung der Steuerschuld zwischen den Ehepartnern. Auf Antrag wird die Steuerschuld getrennt veranlagt, sodass jeder Ehepartner nur für seine eigenen Steuerschulden haftet. <span data-teams="true">Klicken Sie auf "Download Dokument", um einen Musterantrag herunterzuladen.</span>
+
+A
+
+Aussergerichtlicher Einigungsversuch [verbraucher]
+Die außergerichtliche Einigung ist der erste Schritt vor einem Verbraucherinsolvenzantrag. Der Schuldner muss versuchen, sich mit allen Gläubigern außerhalb des Gerichts zu einigen. Es gibt keine festen Formvorgaben, aber der Versuch muss nachvollziehbar, dokumentiert und realistisch sein.
+
+Der Einigungsversuch gilt als erfolgreich, wenn alle Gläubiger zustimmen.
+
+Er gilt als gescheitert, wenn auch nur ein Gläubiger ablehnt oder nicht reagiert.
+
+Erst wenn der außergerichtliche Versuch gescheitert ist, darf der Schuldner beim Insolvenzgericht den Antrag auf Eröffnung des Verbraucherinsolvenzverfahrens stellen – zusammen mit einer Bescheinigung über das Scheitern, ausgestellt z. B. von einer Schuldnerberatung, einem Anwalt oder Steuerberater (§ 305 Abs. 1 Nr. 1 InsO).
+
+Die drei wichtigsten Varianten der außergerichtlichen Einigung sind:
+
+– ein <a id="jump-to-tab-f" href="#"><u>flexibler Nullplan</u></a>, bei dem nur gezahlt wird, wenn pfändbares Einkommen entsteht,
+
+– die <a id="jump-to-tab-e" href="#"><u>Einmalzahlung</u></a>, etwa durch Familie oder Vergleich,
+
+– und die <a id="jump-to-tab-r" href="#"><u>Ratenzahlung</u></a>, bei der regelmäßig ein fester Betrag angeboten wird.
+
+A
+
+Auswanderung nach Insolvenzeröffnung [verbraucher]
+Was passiert, wenn der Schuldner nach Beginn des Insolvenzverfahrens ins Ausland zieht. Der Schuldner kann auswandern, muss jedoch weiterhin den Obliegenheiten im privaten Insolvenzverfahren nachkommen. Dazu gehört unter anderem die Pflicht zur Mitwirkung, zur Auskunftserteilung und zur Zahlung pfändbarer Beträge gemäss der Pfändungstabelle.
+
+A
+
+Auto in der Verbraucherinsolvenz [verbraucher]
+Regelungen, wie mit dem Auto des Schuldners (der Person, die Schulden hat) im Insolvenzverfahren umgegangen wird. Es wird geprüft, ob das Auto verkauft werden muss, um die Schulden zu begleichen, oder ob es behalten werden darf. Der Schuldner kann das Auto unter bestimmten Bedingungen behalten.
+<ul>
+ 	<li>Das Auto ist notwendig, um zur Arbeit zu gelangen oder eine Ausbildung zu absolvieren.</li>
+ 	<li>Der Wert des Autos liegt unterhalb einer bestimmten Pfändungsfreigrenze.</li>
+ 	<li>Das Auto ist für die Ausübung einer selbstständigen Tätigkeit unerlässlich.</li>
+</ul>
+
+B
+
+B
+
+Bankrott [verbraucher,regel,firmen]
+Liegt vor, wenn ein Schuldner in Kenntnis seiner drohenden oder bereits eingetretenen Zahlungsunfähigkeit sein Vermögen vermindert oder beiseiteschafft, um es dem Zugriff der Gläubiger zu entziehen. Dies kann beispielsweise durch das mutwillige Zerstören oder Verstecken von Vermögenswerten, die übermässige Verschwendung finanzieller Mittel oder die bewusste Schädigung der Gläubiger geschehen.
+
+B
+
+Bonitätsprüfung [verbraucher]
+Überprüfung der Kreditwürdigkeit des Schuldners. Es wird geprüft, ob der Schuldner in der Lage ist, neue Kredite aufzunehmen.
+
+B
+
+Bürgschaft [verbraucher]
+Eine Person (der Bürge) verpflichtet sich, die Schulden eines anderen zu übernehmen, falls dieser nicht zahlen kann.
+
+D
+
+D
+
+Drohende Zahlungsunfähigkeit [firmen]
+Ist, wenn ein Schuldner seine fälligen Zahlungen noch leisten kann, jedoch absehbar in Zukunft nicht mehr. Sie ist in § 18 InsO geregelt und ermöglicht eine frühzeitige Insolvenzanmeldung zur Sanierung. Die Beurteilung erfolgt anhand einer Finanzprognose zu Einnahmen, Verbindlichkeiten und Finanzierungsmöglichkeiten. Unternehmen sollten rechtzeitig Maßnahmen wie Liquiditätsplanung, Kostensenkung oder Gläubigerverhandlungen ergreifen, um eine Insolvenz abzuwenden.
+
+E
+
+E
+
+Ehegattenhaftung [verbraucher]
+Ehepartner haften nur sehr beschränkt füreinander. Jeder Ehepartner haftet grundsätzlich nur für die eigenen Schulden. Eine gemeinsame Haftung besteht nur, wenn beide Ehepartner gemeinsam einen Vertrag unterschrieben haben oder wenn einer der Ehepartner eine Bürgschaft für den anderen übernommen hat. Für haushaltsübliche Geschäfte haften Ehepartner jedoch gemeinsam, da diese als Geschäfte zur Deckung des Lebensunterhalts gelten.
+
+E
+
+Eigenantrag [verbraucher,regel,firmen]
+Ist ein Antrag auf Eröffnung eines Insolvenzverfahrens, der vom Schuldner selbst gestellt wird. Er unterscheidet sich vom <strong>Fremdantrag</strong>, bei dem Gläubiger oder andere berechtigte Stellen die Insolvenz eines Schuldners beantragen. In Deutschland ist der Eigenantrag in der <strong>Insolvenzordnung (InsO)</strong> geregelt.
+Ein Schuldner – sei es ein Unternehmen oder eine Privatperson – kann einen Eigenantrag stellen, wenn <strong>Zahlungsunfähigkeit, Überschuldung, (bei juristischen Personen)</strong> oder <strong>drohende Zahlungsunfähigkeit (§ 18 InsO)</strong> vorliegt. Während Unternehmen bei Zahlungsunfähigkeit oder Überschuldung verpflichtet sind, einen Insolvenzantrag zu stellen, ist der Eigenantrag bei drohender Zahlungsunfähigkeit freiwillig und kann zur frühzeitigen Sanierung genutzt werden.
+Mit dem Eigenantrag beginnt das Insolvenzverfahren, und das Gericht prüft, ob ein Insolvenzgrund vorliegt und ob genügend Masse für die Verfahrenskosten vorhanden ist. In vielen Fällen kann der Eigenantrag die geordnete Abwicklung oder Sanierung erleichtern, beispielsweise durch ein Schutzschirmverfahren oder eine Eigenverwaltung.
+Besonders für Unternehmer ist der rechtzeitige Eigenantrag wichtig, um eine persönliche Haftung oder den Vorwurf einer Insolvenzverschleppung zu vermeiden.
+
+E
+
+Eigenverwaltung [verbraucher,regel,firmen]
+Bei der Eigenverwaltung bleibt die Geschäftsleitung des Unternehmens während des Insolvenzverfahrens in den Händen der bisherigen Unternehmensführung, allerdings unter Aufsicht eines Sachverwalters.
+
+E
+
+Einmalzahlung [verbraucher]
+Die Einmalzahlung ist ein Vorschlag an die Gläubiger, mit einem einmaligen Betrag die gesamte Forderung zu erledigen. Diese Zahlung stammt oft von Dritten (z. B. Familie) oder aus einem Vergleich. Gläubiger verzichten dabei auf einen Teil ihrer Forderung – im Gegenzug erhalten sie sofort Geld und schließen die Angelegenheit ab. Die Einmalzahlung wird oft angenommen, wenn der Betrag wirtschaftlich sinnvoll ist und ein Insolvenzverfahren vermieden werden kann.
+
+E
+
+Erneuerter Insolvenzantrag [verbraucher]
+In Deutschland beträgt die Sperrfrist für die Beantragung einer erneuten Restschuldbefreiung in der Regel zehn Jahre ab dem Zeitpunkt der Erteilung der letzten Restschuldbefreiung.
+
+E
+
+Eröffnungsbeschluss [verbraucher,regel,firmen]
+Der Eröffnungsbeschluss des Insolvenzgerichts markiert den offiziellen Beginn des Insolvenzverfahrens. Mit ihm werden ein Insolvenzverwalter bestellt und Vollstreckungsmassnahmen gegen das Unternehmen unterbunden.
+
+E
+
+Erzwingungshaft [verbraucher]
+Erzwingungshaft ist eine Massnahme, die angeordnet wird, wenn der Schuldner seinen Verpflichtungen zur Abgabe der Vermögensauskunft nicht nachkommt. Das bedeutet, dass der Schuldner solange in Gewahrsam genommen wird, bis er die Vermögensauskunft abgegeben hat.
+
+F
+
+F
+
+Faktischer Geschäftsführer [firmen]
+Ist die Person, die ohne offizielle Bestellung nach außen oder innerhalb eines Unternehmens die Aufgaben und Befugnisse eines Geschäftsführers ausübt. Er handelt faktisch wie ein Geschäftsführer, obwohl er nicht formal als solcher eingetragen ist, beispielsweise im Handelsregister.
+Die Rechtsprechung erkennt einen faktischen Geschäftsführer insbesondere dann an, wenn er maßgebliche unternehmerische Entscheidungen trifft, das Unternehmen lenkt und Einfluss auf die Geschäftsführung ausübt, obwohl offiziell andere Personen als Geschäftsführer benannt sind. Typische Indizien sind das Zeichnen von Verträgen, die Anweisung von Zahlungen oder die Weisungserteilung an Mitarbeiter.
+
+F
+
+Flexibler Nullplan [verbraucher]
+Ein flexibler Nullplan ist ein Vorschlag an die Gläubiger im außergerichtlichen Einigungsversuch. Der Schuldner bietet an, für drei Jahre sein pfändbares Einkommen an die Gläubiger abzuführen – aber nur, wenn tatsächlich etwas pfändbar ist.
+
+Wenn kein pfändbares Einkommen vorhanden ist, bekommen die Gläubiger zunächst nichts.
+
+Wenn später wieder etwas pfändbar ist (z. B. durch einen neuen Job), wird dieses Einkommen automatisch an die Gläubiger verteilt.
+
+Der Plan ist „flexibel“, weil er sich der finanziellen Lage des Schuldners anpasst:
+<ul>
+ 	<li data-aria-posinset="1" data-aria-level="2"><span data-contrast="auto">Kein Einkommen = keine Zahlung</span></li>
+ 	<li data-aria-posinset="2" data-aria-level="2"><span data-contrast="auto">Pfändbares Einkommen = anteilige Zahlung</span></li>
+</ul>
+
+F
+
+Forderungsanmeldung [verbraucher,regel,firmen]
+Gläubiger müssen ihre Forderungen innerhalb einer bestimmten Frist beim Insolvenzverwalter anmelden, um am Insolvenzverfahren teilnehmen zu können.
+
+F
+
+Forderungsverkauf [verbraucher]
+Gläubiger können ihre Forderungen an Dritte verkaufen, wie beispielsweise ein Inkassobüro oder einen Rechtsanwalt, übertragen wurde. In diesem Fall ist der ursprüngliche Gläubiger nicht mehr berechtigt, Rechte aus dieser Forderung gegen den Schuldner geltend zu machen. Stattdessen tritt der Dritte an die Stelle des Gläubigers und kann die Forderung einfordern.
+
+F
+
+Fremdantrag [verbraucher,regel,firmen]
+Ist ein Insolvenzantrag, der nicht vom Schuldner selbst, sondern von einem Gläubiger oder einer berechtigten Institution gestellt wird. Er ist in der Insolvenzordnung (InsO) geregelt und dient dem Schutz der Gläubiger, indem eine geordnete Insolvenzabwicklung erzwungen werden kann, wenn der Schuldner zahlungsunfähig oder überschuldet ist.
+Ein Gläubiger kann einen Fremdantrag stellen, wenn er eine berechtigte Forderung gegen den Schuldner hat und nachweisen kann, dass entweder Zahlungsunfähigkeit oder Überschuldung vorliegt.
+
+G
+
+G
+
+Gerichtliches Schuldenbereinigungsverfahren [verbraucher]
+Ein gerichtliches Verfahren, bei dem versucht wird, eine Einigung mit den Gläubigern zu erzielen, um die Schulden zu bereinigen. Das Gericht spielt eine wichtige Rolle in diesem Verfahren. Es kann auf verschiedene Weise auf eine Einigung mit den Gläubigern einwirken:
+<ul>
+ 	<li><strong>Vermittlung:</strong> Das Gericht kann zwischen dem Schuldner und den Gläubigern vermitteln, um eine Einigung zu erleichtern.</li>
+ 	<li><strong>Prüfung des Schuldenbereinigungsplans:</strong> Das Gericht prüft den vom Schuldner vorgelegten Schuldenbereinigungsplan und kann diesen genehmigen oder Änderungen vorschlagen.</li>
+ 	<li><strong>Entscheidung bei Uneinigkeit:</strong> Wenn keine Einigung zwischen dem Schuldner und den Gläubigern erzielt werden kann, kann das Gericht eine bindende Entscheidung treffen.</li>
+ 	<li><strong>Zwangsvergleich:</strong> Das Gericht kann einen Zwangsvergleich anordnen, wenn eine Mehrheit der Gläubiger dem Schuldenbereinigungsplan zustimmt, aber einige Gläubiger sich weigern.</li>
+</ul>
+
+G
+
+Gerichtsvollzieher [verbraucher,regel,firmen]
+Der Gerichtsvollzieher ist ein staatlich bestellter Vollstreckungsbeamter der Justiz, der für die Durchführung der Zwangsvollstreckung in bürgerlichen Rechtsstreitigkeiten zuständig ist. Er wird auf Antrag des Gläubigers tätig und setzt vollstreckbare Titel, etwa Urteile, Vollstreckungsbescheide oder notarielle Urkunden, zwangsweise durch. Zu seinen gesetzlichen Aufgaben gehören insbesondere die Sachpfändung, die Abnahme der Vermögensauskunft, die Zustellung von Schriftstücken sowie die Durchführung von Räumungen. Rechtsgrundlagen sind vor allem die §§ 753 fortfolgende der Zivilprozessordnung, die Gerichtsvollzieherordnung sowie das Gerichtsvollzieherkostengesetz. Der Gerichtsvollzieher handelt hoheitlich und ist organisatorisch dem jeweils zuständigen Amtsgericht zugeordnet.
+
+G
+
+Geschäftsführerhaftung [firmen]
+Die Geschäftsführerhaftung umfasst die persönliche Verantwortung der Geschäftsführer für bestimmte Verbindlichkeiten des Unternehmens. Insbesondere haften sie gegenüber dem Finanzamt für nicht abgeführte Steuern und gegenüber Krankenkassen für nicht abgeführte Sozialversicherungsbeiträge.
+
+G
+
+Gläubiger [verbraucher]
+Personen oder Institutionen, denen der Schuldner Geld schuldet.
+
+G
+
+Gläubigerbenachteiligung [verbraucher,regel,firmen]
+Bedeutet, dass ein Schuldner einzelne Gläubiger bevorzugt, indem er ihnen Vermögenswerte oder Zahlungen zukommen lässt, während andere Gläubiger leer ausgehen. Dies geschieht häufig in der Hoffnung, sich bestimmte geschäftliche oder persönliche Vorteile zu sichern, indem man etwa befreundete Geschäftspartner oder Familienmitglieder bevorzugt.
+
+G
+
+Gläubigerbevorzugung [verbraucher]
+Wenn der Schuldner bestimmte Gläubiger bevorzugt behandelt, was rechtliche Konsequenzen haben kann. Die Bevorzugung von Gläubigern kann verschiedene Konsequenzen haben:
+<ul>
+ 	<li><strong>Anfechtung:</strong> Andere Gläubiger oder der Insolvenzverwalter können die bevorzugten Zahlungen anfechten und zurückfordern.</li>
+ 	<li><strong>Versagung der Restschuldbefreiung:</strong> Das Gericht kann dem Schuldner die Restschuldbefreiung versagen, wenn er nachweislich bestimmte Gläubiger bevorzugt behandelt hat.</li>
+ 	<li><strong>Strafrechtliche Konsequenzen:</strong> In schweren Fällen kann die Bevorzugung von Gläubigern auch strafrechtliche Konsequenzen haben, wie zum Beispiel eine Anzeige wegen Insolvenzverschleppung oder Betrug.</li>
+</ul>
+
+I
+
+I
+
+Insolvenzantragspflicht [firmen]
+Unternehmensleiter müssen bei Zahlungsunfähigkeit spätestens nach drei Wochen einen Insolvenzantrag stellen.
+
+I
+
+Insolvenzgeld [verbraucher]
+Lohnansprüche, die im Rahmen des Insolvenzverfahrens bezahlt werden können. Es wird geklärt, wer für die Auszahlung zuständig ist. Insolvenzgeld wird für Lohnansprüche gezahlt, die in den letzten drei Monaten vor der Insolvenzeröffnung entstanden sind und nicht gezahlt wurden. Die Auszahlung des Insolvenzgeldes erfolgt durch die Agentur für Arbeit.
+
+I
+
+Insolvenzgericht [verbraucher,regel,firmen]
+Das Insolvenzgericht entscheidet über die Eröffnung und den Ablauf des Insolvenzverfahrens, bestellt den Insolvenzverwalter und überwacht das Verfahren.
+
+I
+
+Insolvenzmasse [verbraucher]
+Umfasst das gesamte pfändbare Vermögen eines Schuldners, das im Insolvenzverfahren verteilt wird. Laut § 35 Abs. 1 der Insolvenzordnung (InsO) setzt sich die Insolvenzmasse aus dem Vermögen zusammen, das dem Schuldner zur Zeit der Eröffnung des Verfahrens gehört und das er während des Verfahrens erlangt.
+
+I
+
+Insolvenzordnung (InsO) [verbraucher,regel,firmen]
+Zentrale Gesetz für Insolvenzverfahren in Deutschland. Sie regelt die Voraussetzungen, den Ablauf und die Folgen eines Insolvenzverfahrens für Unternehmen und Privatpersonen. Ziel der Insolvenzordnung ist es, entweder eine Sanierung des Schuldners zu ermöglichen oder eine geordnete Verwertung seines Vermögens zur bestmöglichen Befriedigung der Gläubiger sicherzustellen.
+
+I
+
+Insolvenzplan [regel,firmen]
+Der Insolvenzplan ist ein Sanierungsinstrument, das eine alternative Regelung zur regulären Insolvenzabwicklung darstellt und die Fortführung des Unternehmens ermöglichen kann.
+
+I
+
+Insolvenzstraftaten [verbraucher,regel,firmen]
+Insolvenzstraftaten sind strafbare Handlungen, die im Zusammenhang mit einer Insolvenz begangen werden. Dazu gehören Insolvenzverschleppung, Bankrott, Gläubigerbegünstigung und Betrug.
+
+I
+
+Insolvenzverschleppung [firmen]
+bezeichnet das verspätete oder unterlassene Stellen eines Insolvenzantrags, obwohl ein Unternehmen bereits zahlungsunfähig (§ 17 InsO) oder überschuldet (§ 19 InsO) ist. Sie ist in Deutschland eine strafbare Handlung und kann für Geschäftsführer oder faktische Geschäftsführer zivil- und strafrechtliche Konsequenzen haben.
+
+I
+
+Insolvenzverwalter [verbraucher,regel,firmen]
+Ein Insolvenzverwalter ist eine vom Insolvenzgericht bestellte, unabhängige Person (in der Regel ein spezialisierter Rechtsanwalt oder Wirtschaftsprüfer), die mit der Abwicklung eines Insolvenzverfahrens beauftragt wird.
+
+Aufgaben des Insolvenzverwalters:
+<ul>
+ 	<li><strong>Sicherung und Verwaltung der Insolvenzmasse:</strong> Der Insolvenzverwalter erfasst das gesamte Vermögen des insolventen Unternehmens oder der Privatperson und stellt sicher, dass es nicht unrechtmässig entzogen wird.</li>
+ 	<li><strong>Prüfung der Insolvenzgründe:</strong> Er untersucht, ob tatsächlich eine Zahlungsunfähigkeit oder Überschuldung vorliegt.</li>
+ 	<li><strong>Fortführung oder Abwicklung des Unternehmens: </strong>Falls wirtschaftlich sinnvoll, kann er den Betrieb vorübergehend weiterführen oder ihn geordnet stilllegen.</li>
+ 	<li><strong>Befriedigung der Gläubiger:</strong> Er verwertet die Vermögenswerte und verteilt die Erlöse gemäss der gesetzlichen Rangfolge an die Gläubiger.</li>
+ 	<li><strong>Überwachung und Durchführung eines möglichen Insolvenzplans:</strong> Falls eine Sanierung oder ein Schuldenschnitt möglich ist, setzt er entsprechende Massnahmen um.</li>
+ 	<li><strong>Anfechtung unrechtmässiger Vermögensverschiebungen:</strong>
+Falls der Schuldner vor der Insolvenz Vermögenswerte beiseitegeschafft hat, kann der Insolvenzverwalter diese anfechten und zurückholen.</li>
+</ul>
+Der Insolvenzverwalter agiert <strong>neutral</strong> und ist dem Insolvenzgericht sowie den Gläubigern verpflichtet. Sein Hauptziel ist eine möglichst gerechte Verteilung der verbliebenen Mittel an die Gläubiger.
+
+K
+
+K
+
+Kaution [verbraucher]
+Eine Sicherheitsleistung, die der Schuldner hinterlegen muss, zum Beispiel bei Mietverhältnissen. Die Kaution gehört grundsätzlich zur Insolvenzmasse, es sei denn sie wurde von einem Dritten erbracht.
+
+K
+
+Kindergeld [verbraucher]
+Kindergeld ist eine staatliche Leistung, die Eltern zur Unterstützung ihrer Kinder erhalten. Im Rahmen eines Insolvenzverfahrens ist Kindergeld unpfändbar und kann nicht zur Begleichung von Schulden herangezogen werden.
+
+L
+
+L
+
+Lohnabtretung [verbraucher]
+Abtretung von Lohnansprüchen des Schuldners an die Gläubiger, um die Schulden zu begleichen. Beispiel Ein Schuldner tritt den pfändbaren Anteil seines monatlichen Gehalts an einen Kreditgeber ab, um eine offene Forderung abzusichern.
+
+L
+
+Lohnvorschuss [verbraucher]
+Ein Vorschuss auf den Lohn des Schuldners. Im Gegensatz zu einem Darlehen wird der Lohnvorschuss direkt vom zukünftigen Lohn des Schuldners abgezogen und wird in der Regel bei der nächsten Lohnzahlung vom Arbeitgeber einbehalten.
+
+M
+
+M
+
+Masseverbindlichkeiten [verbraucher,regel,firmen]
+Masseverbindlichkeiten sind Verbindlichkeiten, die während des Insolvenzverfahrens entstehen oder durch den Insolvenzverwalter begründet werden. Sie werden vorrangig aus der Insolvenzmasse beglichen.
+
+M
+
+Mitwirkungspflichten [verbraucher,regel,firmen]
+Der Schuldner ist verpflichtet, den Insolvenzverwalter aktiv zu unterstützen und  angeforderten Informationen bereitzustellen.
+
+N
+
+N
+
+Nicht pfändbare Arbeitsentgelte [verbraucher]
+Arbeitsentgelte, die nicht gepfändet werden können. Beispiele für nicht pfändbare Bezüge sind Weihnachtsgeld, Urlaubsgeld bis zu einer bestimmten Höhe oder anteilig sowie Spesen.
+
+O
+
+O
+
+Obliegenheitspflichten [verbraucher]
+Pflichten des Schuldners im Rahmen des Insolvenzverfahrens. Zu den wichtigsten Obliegenheitspflichten gehören:
+<ul>
+ 	<li><strong>Erwerbstätigkeit:</strong> Der Schuldner muss einer angemessenen Erwerbstätigkeit nachgehen oder sich um eine solche bemühen.</li>
+ 	<li><strong>Auskunftspflicht:</strong> Der Schuldner muss dem Insolvenzverwalter und dem Gericht alle erforderlichen Auskünfte über seine Vermögensverhältnisse erteilen.</li>
+ 	<li><strong>Mitwirkungspflicht: </strong>Der Schuldner muss bei der Aufklärung seiner Vermögensverhältnisse mitwirken und alle erforderlichen Unterlagen vorlegen.</li>
+ 	<li><strong>Zahlungspflicht: </strong>Der Schuldner muss pfändbare Beträge seines Einkommens an den Insolvenzverwalter abführen.</li>
+</ul>
+
+P
+
+P
+
+Pfändbare Bezüge [verbraucher]
+Ein Teil des Einkommens muss an die Gläubiger gezahlt werden, um Schulden zu tilgen.
+
+Aber: Nicht das gesamte Einkommen ist pfändbar.
+
+Ein gesetzlich geschützter Grundbetrag bleibt dem Schuldner – zum Beispiel für Miete, Essen und ein Kind.
+
+Nur das Geld, das über diesem geschützten Betrag liegt, ist pfändbar.
+
+Das heißt: Es muss an die Gläubiger abgeführt werden.
+
+Beispiel:
+
+Eine alleinstehende Person mit einem unterhaltspflichtigen Kind verdient 2.000 Euro netto.
+
+Laut aktueller Pfändungstabelle (gültig ab 1. Juli 2025) sind davon 36 Euro pfändbar.
+
+Dieser Betrag muss monatlich an die Gläubiger gezahlt werden – wenn ein entsprechender Plan besteht oder z.B. das Gehalt gepfändet wird.
+
+P
+
+Pfändungsschutzkonto [verbraucher]
+Ein Konto, das vor Pfändungen geschützt ist und dem Schuldner ermöglicht, über einen bestimmten Betrag frei zu verfügen.
+
+P
+
+Pfändungstabelle [verbraucher]
+Sie legt fest, welcher Anteil des Einkommens bei einer Pfändung dem Gläubiger zugewiesen werden kann und welche Beträge für den Schuldner unpfändbar bleiben und seinen Lebensunterhalt sichern.
+
+P
+
+Privatinsolvenz [verbraucher]
+Ein Insolvenzverfahren für Privatpersonen, mit dem Ziel, die Restschuldbefreiung zu erreichen.
+
+R
+
+R
+
+Ratenzahlung [verbraucher]
+Bei der Ratenzahlung schlägt der Schuldner den Gläubigern vor, die Schulden in monatlichen Teilbeträgen abzuzahlen. Die Höhe der Raten richtet sich nach dem frei verfügbaren Einkommen.
+
+Wichtig: Wenn der Schuldner die Raten nicht zuverlässig zahlt, kann der Plan scheitern. In der Regel gilt: Wer zwei Raten hintereinander nicht zahlt, verliert die Vereinbarung – dann lebt die ursprüngliche Forderung wieder auf, inklusive Zinsen und Mahnkosten.
+
+R
+
+Restschuldbefreiung [verbraucher]
+Befreiung von den restlichen Schulden nach Abschluss des Insolvenzverfahrens. Dies ist das Ziel des Verbraucherinsolvenzverfahrens.
+
+S
+
+S
+
+Schufa [verbraucher]
+Die Schufa (Schutzgemeinschaft für allgemeine Kreditsicherung) ist eine Auskunftei, die Informationen über die Kreditwürdigkeit von Personen sammelt und speichert. Im Rahmen eines Insolvenzverfahrens wird die Insolvenz in der Schufa vermerkt. Nach Beendigung des Insolvenzverfahrens wird der Eintrag nach sechs Monaten gelöscht.
+
+S
+
+Schuldenbereinigungsplan [verbraucher]
+Ein Plan zur Bereinigung der Schulden des Schuldners, mit dem Ziel, eine Einigung mit den Gläubigern zu erzielen. Der Schuldenbereinigungsplan enthält Vorschläge, wie die Schulden zurückgezahlt werden können, zum Beispiel durch Ratenzahlungen oder eine Einmalzahlung. Der Plan wird den Gläubigern zur Abstimmung vorgelegt. Wenn alle Gläubiger dem Plan zustimmen, wird er verbindlich. <a id="jump-to-tab-a" href="#"><u>Siehe aussergerichtlicher Einigungsversuch</u></a>.
+
+S
+
+Schuldnerbegünstigung [verbraucher,regel,firmen]
+Ist eine strafbare Handlung gemäss § 283d des Strafgesetzbuches (StGB) und tritt ein, wenn Dritte einem Schuldner dabei helfen, Vermögenswerte dem Zugriff der Gläubiger zu entziehen oder das Insolvenzverfahren zu erschweren. Ziel ist es meist, den Schuldner zu schützen oder bestimmte Vermögenswerte für ihn zu sichern, anstatt sie zur Gläubigerbefriedigung heranzuziehen.
+
+S
+
+Schuldnerbegünstigung gemäss § 283d StGB [verbraucher,regel,firmen]
+Tatvorwürfe die sich nicht gegen den Schuldner selbst, sondern gegen Dritte richtet, die ihm helfen, Vermögenswerte vor Gläubigern zu verbergen. Ein solches Verhalten kann beispielsweise darin bestehen, dass ein Geschäftspartner oder ein Verwandter Vermögenswerte des Schuldners „übernimmt“, um sie vor der Insolvenzmasse zu schützen und sie ihm später wieder zu übergeben.
+
+S
+
+Schwacher vorläufiger Insolvenzverwalter [regel,firmen]
+Ein schwacher vorläufiger Insolvenzverwalter wird eingesetzt, um das Unternehmen bis zur Entscheidung über die Insolvenzeröffnung zu beaufsichtigen. Die Verfügungsgewalt bleibt in der Regel beim Schuldner.
+
+S
+
+Starker vorläufiger Insolvenzverwalter [regel,firmen]
+Ein starker vorläufiger Insolvenzverwalter übernimmt bereits vor der offiziellen Verfahrenseröffnung die Kontrolle über das Unternehmen und kann Verfügungen treffen.
+
+S
+
+Strafzettel [verbraucher]
+Strafzettel und andere Geldstrafen werden im Rahmen eines Insolvenzverfahrens nicht von der Restschuldbefreiung erfasst und müssen daher weiterhin bezahlt werden.
+
+T
+
+T
+
+Treuhänder [verbraucher]
+Siehe <a id="jump-to-tab-i" href="#"><u>Insolvenzverwalter</u></a>.
+
+U
+
+Ü
+
+Überschuldung [firmen]
+Ist ein Insolvenzgrund, der vor allem für juristische Personen wie GmbHs oder AGs relevant ist und in § 19 der Insolvenzordnung (InsO) geregelt ist. Sie liegt vor, wenn das Vermögen des Unternehmens die bestehenden Verbindlichkeiten nicht mehr deckt, es sei denn, eine Fortführung des Unternehmens ist nach einer positiven Fortbestehensprognose wahrscheinlich. Im Gegensatz zur Zahlungsunfähigkeit, bei der ein Unternehmen fällige Rechnungen nicht mehr begleichen kann, betrifft die Überschuldung die bilanzielle Situation eines Unternehmens.
+
+Wenn ein Unternehmen überschuldet ist und keine positive Fortführungsprognose vorliegt, muss die Geschäftsführung innerhalb von drei Wochen einen <strong>Insolvenzantrag</strong> stellen. Dies dient dem Schutz der Gläubiger und verhindert eine <strong>Insolvenzverschleppung</strong>, die strafrechtliche Konsequenzen haben kann. Der Antrag kann zur Regelinsolvenz oder, bei Sanierungsabsicht, zu einem <strong>Schutzschirmverfahren</strong> oder einer <strong>Eigenverwaltung</strong> führen.
+
+Durch rechtzeitiges Handeln können Unternehmen mögliche Haftungsrisiken minimieren und eine geordnete Abwicklung oder Sanierung in die Wege leiten. Ein frühzeitiger Insolvenzantrag bietet zudem die Chance, durch gerichtliche Maßnahmen wie einen <strong>Insolvenzplan</strong> oder <strong>Restrukturierungsmaßnahmen</strong> das Unternehmen zu retten und Gläubigerinteressen zu wahren.
+
+U
+
+Unerlaubte Handlung [verbraucher]
+Handlungen des Schuldners, die im Rahmen des Insolvenzverfahrens als unerlaubt gelten und rechtliche Konsequenzen haben können. Beispiele für unerlaubte Handlungen sind Betrug, Insolvenzverschleppung und die Bevorzugung bestimmter Gläubiger.
+
+U
+
+Unterhalt [verbraucher]
+Unterhaltsschulden werden im Rahmen eines Insolvenzverfahrens besonders behandelt. Unterhaltsschulden, die vor der Insolvenzeröffnung entstanden sind, können bei bestimmten Voraussetzungen nicht von der Restschuldbefreiung erfasst werden.
+
+V
+
+V
+
+Verletzung der Buchführungspflichten [verbraucher,regel,firmen]
+Hierunter fn Verstösse gegen die Pflicht zur ordnungsgemässen Buchführung, insbesondere das Führen unvollständiger oder manipulierter Geschäftsbücher, um die wahre wirtschaftliche Lage zu verschleiern. Gerade in Krisenzeiten versuchen Unternehmen oft, ihre tatsächliche finanzielle Situation zu verbergen, indem sie Bilanzen manipulieren oder wichtige Geschäftsunterlagen verschwinden lassen.
+
+V
+
+Vermögensauskunft [verbraucher]
+Verpflichtet den Schuldner, Auskunft über sein Vermögen zu geben. Die Personen oder Behörden, die eine Vermögensauskunft vom Schuldner verlangen können, sind unter anderem:
+<ul>
+ 	<li>Gerichtsvollzieher</li>
+ 	<li>Zoll</li>
+ 	<li>Finanzamt</li>
+ 	<li>Gesetzliche Krankenkassen</li>
+ 	<li>Gemeinden</li>
+</ul>
+
+V
+
+Vermögensverzeichnis [verbraucher]
+Ein Verzeichnis über das Vermögen des Schuldners, das vom Insolvenzverwalter erstellt wird, um die Insolvenzmasse zu ermitteln.
+
+V
+
+Versagung der Restschuldbefreiung [verbraucher]
+Versagung der Restschuldbefreiung durch das Gericht, wenn der Schuldner seine Pflichten verletzt. Die Schulden bleiben bestehen.
+
+V
+
+Verwertung [verbraucher,regel,firmen]
+Die Verwertung der Insolvenzmasse erfolgt durch Verkauf oder anderweitige Nutzung der vorhandenen Vermögenswerte zur Befriedigung der Gläubiger.
+
+V
+
+Vorzeitige Beendigung des Insolvenzverfahrens [verbraucher]
+Regelungen zur vorzeitigen Beendigung des Insolvenzverfahrens, zum Beispiel durch eine Einigung mit den Gläubigern oder die Rückzahlung aller Schulden.
+
+W
+
+W
+
+Wohlverhaltensperiode [verbraucher]
+Die Zeit, in der sich der Schuldner wohlverhalten muss, um die Restschuldbefreiung zu erhalten. Dies umfasst zum Beispiel die Pflicht zur Erwerbstätigkeit.
+
+W
+
+Wohnsitzwechsel [verbraucher]
+Der Schuldner muss den Insolvenzverwalter und das Gericht über einen Wohnsitzwechsel informieren.
+
+Z
+
+Z
+
+Zahlungsunfähigkeit Firma [firmen]
+Liegt vor, wenn ein Schuldner nicht mehr in der Lage ist, seine fälligen Zahlungsverpflichtungen zu erfüllen und eine Liquiditätslücke von mehr als 10 % besteht, die nicht kurzfristig geschlossen werden kann. Maßgeblich ist, dass die fehlenden finanziellen Mittel nicht nur vorübergehend sind, sondern eine dauerhafte Zahlungsstockung droht.
+Für Unternehmen bedeutet das, dass sie spätestens innerhalb von drei Wochen nach Eintritt der Zahlungsunfähigkeit einen Insolvenzantrag stellen müssen. Eine verspätete Antragstellung kann als Insolvenzverschleppung strafrechtliche Konsequenzen für die Geschäftsführung haben.
+
+Z
+
+Zustellung Gerichtsvollzieher [verbraucher]
+Zustellung von Dokumenten durch den Gerichtsvollzieher, ein Teil des Zwangsvollstreckungsverfahrens.
+
+Z
+
+Zwangsvollstreckung im Insolvenzverfahren [verbraucher,regel,firmen]
+Mit der Eröffnung des Insolvenzverfahrens wird die individuelle Zwangsvollstreckung von Gläubigern gegen den Schuldner untersagt, um eine gleichmässige Befriedigung der Gläubiger sicherzustellen.

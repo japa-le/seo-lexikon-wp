@@ -1,0 +1,23 @@
+{
+  "apiVersion": 3,
+  "name": "lm/lexikon",
+  "title": "Lexikon",
+  "category": "widgets",
+  "icon": "book",
+  "description": "Lexikon-Einträge mit SEO-Anchor und Suche/Tabs",
+  "attributes": {
+    "show_search": {
+      "type": "boolean",
+      "default": true
+    },
+    "show_tabs": {
+      "type": "boolean",
+      "default": true
+    }
+  },
+  "supports": {
+    "html": false
+  },
+  "editorScript": "file:./build/index.js",
+  "viewScript": "file:./build/frontend.js"
+}

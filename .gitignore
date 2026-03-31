@@ -1,0 +1,23 @@
+# .gitignore for the lexikonmanager WordPress plugin
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node / JS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+.cache/
+
+# Build output
+build/

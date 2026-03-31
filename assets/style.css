@@ -1,0 +1,646 @@
+/* ==========================================================================
+   Gutenberg Block: .lm-lexikon
+   ========================================================================== */
+
+h1.lexikititel {
+    font-weight: 400;
+    font-family: "Trebuchet MS";
+    font-size: 42px;
+}
+
+   .lm-lexikon {
+  margin: 1.5rem 0;
+  font-family: inherit;
+  color: #1f2a3a;
+}
+
+.lm-lexikon-iwrap {
+  display: flex;
+  gap: 10px;
+}
+
+.lm-lexikon-search-wp {
+  margin-bottom: 1rem;
+}
+
+.lm-lexikon-search-wp input[type="search"] {
+  width: 100%;
+  max-width: 500px;
+  padding: 0.7rem 0.85rem;
+  border: 1px solid #c4cdd7;
+  border-radius: 6px;
+  background: #fff;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.08);
+}
+
+.lm-lexikon-tabs {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  margin-bottom: 1rem;
+  justify-content: space-around;
+}
+
+[type="button"].lm-lexikon-tab {
+  border: 1px solid #d0d6db;
+  background-image: linear-gradient(180deg, #7b4397 0%, var(--e-global-color-c5feae6) 100%);
+  color: #e8f2ff;
+  padding: 0.42rem 0.75rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.lm-lexikon-tab:hover,
+.lm-lexikon-tab.is-active,
+.lm-lexikon-tab.is-active:focus {
+  border-color: #3b8ddb;
+  background: #e8f2ff;
+  color: #1f4d92;
+}
+
+.lm-lexikon-group {
+  margin-bottom: 1.65rem;
+}
+
+.lm-lexikon-group-title {
+  margin: 0 0 0.8rem;
+  font-size: 1.15rem;
+  color: #194b8f;
+  border-bottom: 1px solid #e0e6ec;
+  padding-bottom: 0.3rem;
+}
+
+.lm-entry {
+  margin-bottom: 1.1rem;
+  padding: 0.85rem 0.95rem;
+  border: 1px solid #e1e7ee;
+  border-radius: 7px;
+  background: #fff;
+}
+
+.lm-entry-title {
+  margin: 0 0 0.45rem;
+  font-size: 1.05rem;
+}
+
+.lm-entry-snippet {
+  display: none;
+  margin: 0.3rem 0 0.63rem;
+  color: #54606c;
+}
+
+.lm-entry-title mark,
+.lm-entry-snippet mark {
+  background: #ffeb3b;
+  color: inherit;
+  padding: 0 0.1em;
+  border-radius: 2px;
+}
+
+.lm-entry-content {
+  margin-bottom: 0.8rem;
+}
+
+.lm-entry-content a {
+  color: #1a4c8f;
+}
+
+.lm-entry-resources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.lm-entry-assignment {
+    display: flex;
+    margin-top: 0.15rem;
+    text-align: right;
+    font-size: 0.75rem;
+    font-style: italic;
+    color: #6b7280;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-left: auto;
+}
+
+.lm-lexikon .lm-entry-resources a,
+.lm-lexikon .lm-entry-resources button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.32rem;
+  text-decoration: none !important;
+  border: 1px solid #3b8ddb;
+  background: #e8f2ff;
+  color: #1f4d92;
+  padding: 0.4rem 0.65rem;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  line-height: 1.2;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.lm-lexikon .lm-entry-resources a:hover,
+.lm-lexikon .lm-entry-resources button:hover {
+  opacity: 0.85;
+  background: #e8f2ff;
+  color: #16385d;
+}
+
+.lm-entry-resources .fa-solid:before {
+  font-family: "Font Awesome 5 Free";
+  color: #1f4d92;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 12px;
+  margin-right: 5px;
+}
+
+/* ==========================================================================
+   Shortcodes: Lexikon Display & Search
+   ========================================================================== */
+
+.alphabets a,
+.alphabetsuche a {
+  color: #25142d;
+}
+
+.alphabets span strong {
+  font-size: 32px;
+}
+
+.alphabets {
+  overflow-y: auto;
+  max-height: 525px;
+}
+
+.highlight {
+  background-color: yellow;
+  color: black;
+  font-weight: bold;
+  padding: 2px;
+  border-radius: 3px;
+}
+
+.lexikonsuche {
+  display: none;
+}
+
+/* Tab buttons (Elementor) */
+.tabbutton.elementor-widget-button a {
+  background-image: linear-gradient(to bottom, #fff 0%, #f4ebf8 100%);
+  border: 1px solid #dadae5;
+  color: #3f4c58;
+}
+
+.tabbutton.elementor-widget-button a:hover {
+  color: #fff;
+  background-image: linear-gradient(to bottom, #7b4397 0%, #4e2264 100%);
+  transition: 0s;
+}
+
+.tabbutton.elementor-widget-button.active a {
+  background: #7b4397;
+  border: 1px solid #7b4397;
+  color: #fff;
+  transition: 0s;
+}
+
+.tabbutton.elementor-widget-button.active a:hover {
+  background: #7b4397;
+}
+
+/* Legacy hidden tabs */
+#c-tab, #h-tab, #j-tab, #q-tab, #x-tab, #y-tab {
+  display: none !important;
+}
+
+
+/* ==========================================================================
+   Shortcode Search (AJAX)
+   ========================================================================== */
+
+.sidebar-search {
+  margin-bottom: 20px;
+}
+
+.sidebar-search-input,
+.lexikon-search-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 12px;
+  box-sizing: border-box;
+}
+
+.sidebar-search .lexikon-video,
+.sidebar-search .lexikon-resource {
+  display: flex;
+  align-self: end;
+  width: 100%;
+}
+
+.sidebar-search .lexikon-video-btn {
+  font-family: "League Spartan", sans-serif;
+  width: 100%;
+}
+
+.sidebar-search a {
+  color: white;
+}
+
+.search-results,
+.lexikon-search-results {
+  margin-top: 10px;
+}
+
+.search-loading,
+.search-error,
+.no-results {
+  padding: 10px;
+  font-size: 13px;
+  color: #666;
+  text-align: center;
+}
+
+.search-count {
+  padding: 8px;
+  font-size: 12px;
+  color: #666;
+  font-weight: bold;
+}
+
+.results-list {
+  max-height: 450px;
+  overflow-y: auto;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.result-item {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.result-item:last-child {
+  border-bottom: none;
+}
+
+.result-item .result-title {
+  color: #0073aa;
+  font-weight: 500;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.result-excerpt {
+  font-size: 12px;
+  color: #fff;
+  line-height: 1.4;
+}
+
+
+/* ==========================================================================
+   Shortcode Resources: Video, Blog, Download, Diagram
+   ========================================================================== */
+
+.lexikon-video {
+  display: flex;
+  align-items: center;
+  border-radius: 15px;
+  max-width: 100%;
+}
+
+.lexikon-video video {
+  border-radius: 15px;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.lexikon-video-btn,
+.lexikon-download-btn,
+.lexikon-blog-btn,
+.lexikon-diagram-btn {
+  color: #fff !important;
+  border: 1px solid #fff !important;
+  padding: 10px 20px;
+  border-radius: 10px !important;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.lexikon-download-btn,
+.lexikon-blog-btn {
+  display: inline-block;
+  width: 100%;
+  background-color: transparent;
+  background-image: linear-gradient(180deg, var(--e-global-color-accent) 0%, var(--e-global-color-c5feae6) 100%);
+  text-decoration: none;
+  text-align: center;
+}
+
+.lexikon-download-btn:hover,
+.lexikon-blog-btn:hover {
+  background-image: linear-gradient(180deg, var(--e-global-color-accent) 0%, var(--e-global-color-accent) 100%);
+}
+
+.lexikon-blog-btn {
+  white-space: nowrap;
+}
+
+.lexikon-resources-or {
+  margin-top: -10px;
+  display: flex;
+  gap: 10px;
+}
+
+.sidebar-search .lexikon-resources-or {
+  flex-direction: column;
+}
+
+.lexikon-resources {
+  display: flex;
+  gap: 10px;
+  flex-wrap: nowrap;
+  align-items: stretch;
+}
+
+.lexikon-search-results .lexikon-resources {
+  align-items: center;
+  flex-direction: row;
+  margin-top: 15px;
+}
+
+.lexikon-resource-file {
+  display: flex;
+  gap: 10px;
+}
+
+.lexikon-search-results .lexikon-resource-file {
+  flex-direction: column;
+}
+
+.lexikon-search-results .lexikon-resource-file button {
+  width: 100%;
+}
+
+/* Blog preview (legacy, auskommentiert im PHP aber CSS bleibt für Altdaten) */
+.lexikon-blog-preview {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  text-decoration: none;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  padding: 8px 10px;
+}
+
+.lexikon-blog-thumb {
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.lexikon-blog-label {
+  font-weight: 600;
+  font-size: 0.85em;
+  opacity: 0.8;
+  margin-bottom: 2px;
+}
+
+.lexikon-blog-title {
+  font-family: "Libre Baskerville";
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.lexikon-blog-date {
+  font-family: "Libre Baskerville";
+  font-size: 10px;
+  opacity: 0.75;
+  margin-top: 4px;
+}
+
+/* Font Awesome Icons */
+.fa-solid:before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 700;
+  font-style: normal;
+  margin-right: 5px;
+}
+
+.lexikon-download-btn i,
+.lexikon-blog-btn i {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  margin-right: 6px;
+  font-size: 0.9em;
+  font-style: normal;
+}
+
+
+/* ==========================================================================
+   Mobile Floating Panel (legacy)
+   ========================================================================== */
+
+#mobilext {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 25vw;
+  max-width: 300px;
+  height: 0;
+  background-color: rgba(255, 255, 255, 0.95);
+  border-radius: 15px 15px 0 0;
+  padding: 10px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  overflow-y: hidden;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  transition: height 0.3s ease-in-out;
+}
+
+#mobilext.expanded {
+  height: 80vh;
+  overflow-y: auto;
+}
+
+#mobilext::-webkit-scrollbar {
+  width: 5px;
+}
+
+#mobilext::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 5px;
+}
+
+#mobilext .tabbutton {
+  width: 100%;
+  text-align: center;
+  cursor: pointer;
+}
+
+#mobilext-toggler {
+  transform: rotate(-90deg);
+  transform-origin: center right;
+  position: fixed;
+  bottom: 30%;
+  right: 20px;
+  background-color: #0073e6;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.4s;
+  z-index: 1001;
+  padding: 10px 20px;
+  white-space: nowrap;
+  border-radius: 15px 15px 0 0;
+}
+
+span.mobihead {
+  font-size: 21px;
+  line-height: 1em;
+}
+
+
+/* ==========================================================================
+   Responsive
+   ========================================================================== */
+
+@media screen and (max-width: 767px) {
+
+  .lm-lexikon.lm-mobile-tabs-ready .lm-lexikon-tabs {
+    position: fixed;
+    top: 58%;
+    right: -100%;
+    z-index: 1002;
+    width: min(78vw, 320px);
+    max-height: 65vh;
+    overflow-y: auto;
+    padding: 12px;
+    border: 1px solid #d7dce2;
+    border-radius: 12px 0 0 12px;
+    background: rgba(255, 255, 255, 0.98);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+    justify-content: flex-start;
+    transition: right 0.25s ease;
+  }
+
+  .lm-lexikon.lm-mobile-tabs-ready.lm-mobile-tabs-open .lm-lexikon-tabs {
+    right: 0;
+  }
+
+  .lm-lexikon .lm-mobile-tabs-toggle {
+    display: none;
+  }
+
+  .lm-lexikon.lm-mobile-tabs-ready .lm-mobile-tabs-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    right: 0;
+    top: 80%;
+    z-index: 1003;
+    border: 1px solid #7b4397;
+    border-right: 0;
+    border-radius: 12px 0 0 12px;
+    background-image: linear-gradient(to bottom, #7b4397 0%, #4e2264 100%);
+    color: #fff;
+    padding: 10px 12px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    writing-mode: sideways-rl;
+    text-orientation: mixed;
+    cursor: pointer;
+  }
+
+  .lm-lexikon.lm-mobile-tabs-ready.lm-mobile-tabs-open .lm-mobile-tabs-toggle {
+    background-image: linear-gradient(to bottom, #4e2264 0%, #7b4397 100%);
+  }
+
+  .lm-lexikon-iwrap {
+    flex-direction: column;
+}
+
+.lm-lexikon-tabs {
+    justify-content: flex-start;
+}
+
+  div#verbraucherlex,
+  div#regelex {
+    margin-left: auto !important;
+    max-height: 450px;
+    overflow-y: auto;
+  }
+
+  .sidebar-search-input,
+  .lexikon-search-input {
+    font-size: 16px;
+  }
+
+  .lexikon-resources-or {
+    flex-direction: column;
+  }
+
+  .lexikon-resources {
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .lexikon-resource {
+    display: flex;
+    align-items: flex-end;
+    width: 100%;
+  }
+
+  .lexikon-video {
+    width: 100%;
+  }
+
+  .lexikon-video-btn {
+    width: 100%;
+  }
+
+  .lexikon-resource-file {
+    flex-direction: column;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .sidebar-search .lexikon-resource-file {
+    margin-top: 15px;
+  }
+
+  .sidebar-search .lexikon-resources-or {
+    flex-direction: row;
+  }
+
+  .sidebar-search .lexikon-resource {
+    align-self: start;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lexikon-video {
+    max-width: 50%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .lexikon-resource-file {
+    width: 100%;
+  }
+}
