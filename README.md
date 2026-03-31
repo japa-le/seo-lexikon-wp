@@ -55,8 +55,6 @@ Aktuelle JS-Entry-Points:
 
 Alpine.js ist im Projekt integriert und wird aktuell **primär im Admin-Bereich** genutzt (z. B. Snippet-Status/Meta-Box-Helper).
 
-Der produktive Frontend-Flow (`src/frontend.js`) läuft derzeit wieder in der stabilen Vanilla-JS-Variante, um Regressionen zu vermeiden.
-
 ## Git / Repository Setup
 
 Repository ist auf Branch `main` ausgelegt.
