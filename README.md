@@ -43,6 +43,33 @@ Production Build:
 npm run build
 ```
 
+### Build-Entries
+
+Aktuelle JS-Entry-Points:
+
+- `src/index.js` (Gutenberg Block Editor)
+- `src/frontend.js` (Frontend Interaktionen)
+- `src/admin.js` (Admin UI-Helpers)
+
+## Alpine.js Status
+
+Alpine.js ist im Projekt integriert und wird aktuell **primär im Admin-Bereich** genutzt (z. B. Snippet-Status/Meta-Box-Helper).
+
+Der produktive Frontend-Flow (`src/frontend.js`) läuft derzeit wieder in der stabilen Vanilla-JS-Variante, um Regressionen zu vermeiden. Eine schrittweise Alpine-Migration im Frontend kann später inkrementell erfolgen.
+
+## Git / Repository Setup
+
+Repository ist auf Branch `main` ausgelegt.
+
+Empfohlener Ablauf (im Plugin-Ordner):
+
+```bash
+git pull --rebase origin main
+git add .
+git commit -m "Update lexikonmanager"
+git push -u origin main
+```
+
 ## Lexikon Import/Export (data.txt)
 
 Es gibt jetzt wieder ein Hilfsskript:
