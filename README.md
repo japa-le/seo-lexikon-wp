@@ -51,11 +51,11 @@ Aktuelle JS-Entry-Points:
 - `src/frontend.js` (Frontend Interaktionen)
 - `src/admin.js` (Admin UI-Helpers)
 
-## Alpine.js Status
+## Alpine.js
 
 Alpine.js ist im Projekt integriert und wird aktuell **primär im Admin-Bereich** genutzt (z. B. Snippet-Status/Meta-Box-Helper).
 
-Der produktive Frontend-Flow (`src/frontend.js`) läuft derzeit wieder in der stabilen Vanilla-JS-Variante, um Regressionen zu vermeiden. Eine schrittweise Alpine-Migration im Frontend kann später inkrementell erfolgen.
+Der produktive Frontend-Flow (`src/frontend.js`) läuft derzeit wieder in der stabilen Vanilla-JS-Variante, um Regressionen zu vermeiden.
 
 ## Git / Repository Setup
 
